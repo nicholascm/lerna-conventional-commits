@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/nicholascm/lerna-conventional-commits/compare/@my-scope/alpha@1.1.0...@my-scope/alpha@1.1.1) (2019-08-14)
+
+
+### Bug Fixes
+
+* ddd ([b5ec8ab](https://github.com/nicholascm/lerna-conventional-commits/commit/b5ec8ab))
+
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/nicholascm/lerna-conventional-commits/compare/@my-scope/alpha@1.0.0...@my-scope/alpha@1.1.0) (2019-08-14)
 
