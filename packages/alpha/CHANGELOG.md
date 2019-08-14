@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.1.3"></a>
+## [1.1.3](https://github.com/nicholascm/lerna-conventional-commits/compare/@my-scope/alpha@1.1.2...@my-scope/alpha@1.1.3) (2019-08-14)
+
+
+### Bug Fixes
+
+* typos in two repos ([e93c843](https://github.com/nicholascm/lerna-conventional-commits/commit/e93c843))
+
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/nicholascm/lerna-conventional-commits/compare/@my-scope/alpha@1.1.1...@my-scope/alpha@1.1.2) (2019-08-14)
 
