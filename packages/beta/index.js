@@ -1,1 +1,1 @@
-module.exports = 'ASDFASDFASDF';
+module.exports = 'd';
