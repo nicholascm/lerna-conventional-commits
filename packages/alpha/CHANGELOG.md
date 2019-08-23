@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/nicholascm/lerna-conventional-commits/compare/@my-scope/alpha@1.1.3...@my-scope/alpha@2.0.0) (2019-08-23)
+
+
+### Bug Fixes
+
+* new module export ([d3d264c](https://github.com/nicholascm/lerna-conventional-commits/commit/d3d264c))
+
+
+### Features
+
+* something big ([3d019cb](https://github.com/nicholascm/lerna-conventional-commits/commit/3d019cb))
+
+
+### BREAKING CHANGES
+
+* oh wow
+
+
+
+
+
 <a name="1.1.3"></a>
 ## [1.1.3](https://github.com/nicholascm/lerna-conventional-commits/compare/@my-scope/alpha@1.1.2...@my-scope/alpha@1.1.3) (2019-08-14)
 

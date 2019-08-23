@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "commitmsg": "commitlint -e $GIT_PARAMS",
+    "commitmsg": "commitlint -E HUSKY_GIT_PARAMS",
     "commit": "commit"
   },
   "devDependencies": {
